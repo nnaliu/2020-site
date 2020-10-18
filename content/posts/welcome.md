@@ -1,0 +1,20 @@
+---
+title: dear stranger,
+date: "2020-10-17T10:30:00.121Z"
+template: "post"
+draft: false
+slug: "welcome-post"
+category: "Welcome"
+tags:
+
+description: "glad we found each other on the internet"
+socialImage: "/media/image-2.jpg"
+---
+
+Woah. Hello! I'm surprised you're here. I'd be curious to learn how you landed on this little corner of the Internet. It's kind of crazy how we can each register our little plot of "web land," and there's enough space to go around for everyone. Reminds me of the days when I first learned HTML/CSS so I could plaster my Neopet shop background with sparkly stars on a midnight sky. And here we are, still using the basic computer-speak of _bracket p end bracket insert some gibberish bracket slash p end bracket_ to shout into the void.
+
+I'm trying to write more and make more, hence this website. I'm hoping by putting some of my thoughts out there, strangers out there can keep me accountable and also provide some feedback. It's also a forcing function for me to actually digest what I read instead of keeping it in jumbled notes with mismatching headers in my Notion mind <s>map</s> vomit.
+
+Intentionally, this is not another Substack because I lack the self-discipline to publish on a regular schedule to keep my subscribers engaged. I'd also like to curate a little garden of posts, rather than have something boxed up with a bow on top and published in a linear fashion.
+
+Alright, that's all for now. See ya later 🐊!
