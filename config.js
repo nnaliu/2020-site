@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://annaliu.netlify.com',
   pathPrefix: '/',
   title: 'Anna Liu',
   subtitle: 'Anna Yuhui Liu Personal Website and Blog',
